@@ -1,1 +1,1954 @@
+[
+  {
+    "id": 1,
+    "np": "NP I",
+    "question": "During a dengue outbreak in a barangay, the Public Health Nurse conducts a community assessment. Which finding is the PRIORITY for immediate intervention under the 4S strategy of the DOH National Dengue Prevention and Control Program?",
+    "options": {
+      "A": "Presence of improperly disposed water-collecting containers near households",
+      "B": "Low knowledge scores on dengue transmission among residents",
+      "C": "Absence of a barangay health station within 2 km",
+      "D": "High population density in the area"
+    },
+    "answer": "A",
+    "rationale": "The 4S strategy (Search and destroy, Self-protection, Seek early consultation, Say yes to fogging) targets breeding sites first — stagnant water in containers is the #1 modifiable source of Aedes mosquito propagation."
+  },
+  {
+    "id": 2,
+    "np": "NP I",
+    "question": "A community health nurse is implementing the Community Organizing Participatory Action Research (COPAR) process. The community has just finished identifying their health problems and setting priorities. What is the NEXT step in the COPAR process?",
+    "options": {
+      "A": "Community organization/formation of core groups",
+      "B": "Ground setting/social investigation",
+      "C": "Mobilization/organization building strengthened through action",
+      "D": "Evaluation"
+    },
+    "answer": "C",
+    "rationale": "COPAR sequence: Preparatory → Ground setting/Integration → Social investigation/Problem identification → Core group formation → Organization building/Mobilization → Evaluation. After priorities are set, the community moves into building and strengthening organization through actual mobilization/action."
+  },
+  {
+    "id": 3,
+    "np": "NP I",
+    "question": "The Epidemiologic Triad explains disease causation. A nurse investigating a leptospirosis outbreak after flooding identifies contaminated floodwater as which component?",
+    "options": {
+      "A": "Host",
+      "B": "Agent",
+      "C": "Environment",
+      "D": "Vector"
+    },
+    "answer": "C",
+    "rationale": "Environment refers to external factors that affect the agent and its transmission to the host. Floodwater is the environmental factor facilitating Leptospira exposure; the bacteria itself is the agent."
+  },
+  {
+    "id": 4,
+    "np": "NP I",
+    "question": "Under the DOH Expanded Program on Immunization (EPI), a mother brings her 9-month-old infant for immunization. Which vaccine is due at this age?",
+    "options": {
+      "A": "BCG",
+      "B": "Anti-measles (AMV)/MMR",
+      "C": "Pentavalent (DPT-HepB-Hib) 3rd dose",
+      "D": "Oral Polio Vaccine (OPV) 1st dose"
+    },
+    "answer": "B",
+    "rationale": "AMV (or MMR) is scheduled at 9 months. BCG is given at birth, Pentavalent 3rd dose and OPV are completed by 14 weeks (~3.5 months)."
+  },
+  {
+    "id": 5,
+    "np": "NP I",
+    "question": "A nurse is conducting case finding for Tuberculosis using the National TB Program (NTP) protocol. Which client should be PRIORITIZED for sputum smear microscopy/GeneXpert testing?",
+    "options": {
+      "A": "A 45-year-old with a 2-week cough and unexplained weight loss",
+      "B": "A 30-year-old with occasional cough for 3 days after cigarette smoking",
+      "C": "A 60-year-old with cough due to seasonal allergies",
+      "D": "A 25-year-old with a cough that resolved after 5 days of antibiotics"
+    },
+    "answer": "A",
+    "rationale": "The NTP case-finding criterion is cough of 2 weeks or more (a 'TB symptomatic'), especially with constitutional signs like weight loss — this client meets the threshold for testing."
+  },
+  {
+    "id": 6,
+    "np": "NP I",
+    "question": "Using the Integrated Management of Childhood Illness (IMCI) protocol, a nurse assesses a 20-month-old child with cough and fast breathing (58 breaths/min), with no chest indrawing or danger signs. How should the nurse classify this condition?",
+    "options": {
+      "A": "No pneumonia: cough or cold",
+      "B": "Pneumonia",
+      "C": "Severe pneumonia or very severe disease",
+      "D": "Bronchial asthma"
+    },
+    "answer": "B",
+    "rationale": "For children 12 months to 5 years, fast breathing is ≥40 breaths/min. Fast breathing without chest indrawing or general danger signs is classified as PNEUMONIA (not severe)."
+  },
+  {
+    "id": 7,
+    "np": "NP I",
+    "question": "A nurse promotes the concept of 'herd immunity' in a barangay with declining vaccination rates. Which explanation correctly describes this concept?",
+    "options": {
+      "A": "Vaccinating a large majority of the population protects the unvaccinated minority from disease spread",
+      "B": "Individual immunity guarantees no disease transmission at all",
+      "C": "Herd immunity develops only after natural infection occurs",
+      "D": "Herd immunity requires 100% vaccination coverage of the population"
+    },
+    "answer": "A",
+    "rationale": "Herd immunity occurs when a sufficiently high proportion of the population is immune, interrupting chains of transmission and indirectly protecting non-immune individuals."
+  },
+  {
+    "id": 8,
+    "np": "NP I",
+    "question": "A rural community relies on a shared, communal faucet system with treated water piped from a source to several households. According to the DOH classification of drinking water supply levels, this is classified as:",
+    "options": {
+      "A": "Level I — Point source",
+      "B": "Level II — Communal faucet system",
+      "C": "Level III — Individual household connection",
+      "D": "Level IV — Bottled water system"
+    },
+    "answer": "B",
+    "rationale": "Level II is a communal faucet or standpost system serving several households through a piped system, distinct from Level I (point source, e.g., a well) and Level III (individual house connections)."
+  },
+  {
+    "id": 9,
+    "np": "NP I",
+    "question": "During a hypertension screening in a barangay health station, a nurse should PRIORITIZE referral of which client to a physician?",
+    "options": {
+      "A": "BP 130/85 mmHg, asymptomatic, first-time reading",
+      "B": "BP 180/110 mmHg with headache and blurred vision",
+      "C": "BP 128/82 mmHg with a family history of hypertension",
+      "D": "BP 138/88 mmHg, on maintenance losartan, feeling well"
+    },
+    "answer": "B",
+    "rationale": "BP ≥180/110 mmHg with symptoms (headache, blurred vision) suggests a hypertensive emergency/urgency requiring immediate physician referral, unlike the other stable or borderline findings."
+  },
+  {
+    "id": 10,
+    "np": "NP I",
+    "question": "A patient diagnosed with multibacillary (MB) leprosy is prescribed Multi-Drug Therapy (MDT) under the National Leprosy Control Program. Which combination of drugs is correct for MB leprosy?",
+    "options": {
+      "A": "Rifampicin + Dapsone only",
+      "B": "Rifampicin + Dapsone + Clofazimine",
+      "C": "Isoniazid + Rifampicin + Pyrazinamide",
+      "D": "Dapsone alone"
+    },
+    "answer": "B",
+    "rationale": "MB leprosy MDT regimen is Rifampicin, Clofazimine, and Dapsone for 12 months. Rifampicin + Dapsone alone is the PB (paucibacillary) regimen."
+  },
+  {
+    "id": 11,
+    "np": "NP II",
+    "question": "A client's last menstrual period (LMP) was January 10, 2026. Using Naegele's Rule, what is her estimated date of confinement (EDC)?",
+    "options": {
+      "A": "October 3, 2026",
+      "B": "October 17, 2026",
+      "C": "November 10, 2026",
+      "D": "September 17, 2026"
+    },
+    "answer": "B",
+    "rationale": "Naegele's Rule: LMP + 7 days, then subtract 3 months (add 1 year if needed). Jan 10 + 7 days = Jan 17 → minus 3 months = October 17, 2026."
+  },
+  {
+    "id": 12,
+    "np": "NP II",
+    "question": "On Leopold's maneuvers, the nurse palpates a round, hard, movable mass in the fundus, and a smooth, hard, resistant structure on the maternal right side. What is the most likely fetal presentation?",
+    "options": {
+      "A": "Breech presentation",
+      "B": "Cephalic presentation",
+      "C": "Transverse lie",
+      "D": "Face presentation"
+    },
+    "answer": "A",
+    "rationale": "A round, hard, movable, ballotable mass in the fundus is the fetal head — when the head is in the fundus, the buttocks/feet present at the cervix, indicating a breech presentation."
+  },
+  {
+    "id": 13,
+    "np": "NP II",
+    "question": "Two hours postpartum, a client's fundus is boggy and displaced to the right of the umbilicus, with heavy lochia rubra. What is the nurse's PRIORITY action?",
+    "options": {
+      "A": "Administer prescribed IV oxytocin immediately",
+      "B": "Assist the client to empty her bladder, then massage the fundus",
+      "C": "Prepare for immediate return to the operating room",
+      "D": "Notify the physician and simply wait for orders"
+    },
+    "answer": "B",
+    "rationale": "A boggy fundus displaced from midline is classically caused by a full bladder. The nurse should first have the client void (or catheterize if unable), then massage the fundus — the priority independent nursing action before escalating."
+  },
+  {
+    "id": 14,
+    "np": "NP II",
+    "question": "A term newborn at 1 minute of life has: HR 110 bpm, slow irregular respirations, some flexion of extremities, grimace on suction, and body pink with blue extremities (acrocyanosis). What is the APGAR score?",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "10"
+    },
+    "answer": "B",
+    "rationale": "Scoring: HR >100 = 2, slow/irregular respirations = 1, some flexion = 1, grimace = 1, acrocyanosis = 1. Total = 6."
+  },
+  {
+    "id": 15,
+    "np": "NP II",
+    "question": "A client with severe preeclampsia is receiving IV magnesium sulfate. Which finding indicates magnesium toxicity requiring the nurse to STOP the infusion immediately?",
+    "options": {
+      "A": "Deep tendon reflexes 2+",
+      "B": "Respiratory rate of 10 breaths/min",
+      "C": "Urine output of 30 mL/hr",
+      "D": "Serum magnesium level of 5 mEq/L"
+    },
+    "answer": "B",
+    "rationale": "A respiratory rate below 12/min is a classic sign of magnesium toxicity (along with absent DTRs and oliguria <30 mL/hr). Therapeutic magnesium range is 4–7 mEq/L, so 5 mEq/L alone is not toxic."
+  },
+  {
+    "id": 16,
+    "np": "NP II",
+    "question": "According to Erikson's psychosocial theory, which behavior indicates a toddler (18 months–3 years) is successfully achieving the developmental task of autonomy vs. shame and doubt?",
+    "options": {
+      "A": "Insisting on feeding self despite spilling food",
+      "B": "Playing cooperatively with peers",
+      "C": "Forming a strong attachment to a single caregiver",
+      "D": "Engaging in elaborate imaginative role play"
+    },
+    "answer": "A",
+    "rationale": "Autonomy vs. shame/doubt centers on the toddler's drive for independence in self-care tasks (feeding, toileting) despite imperfect execution — insisting on self-feeding demonstrates this developing autonomy."
+  },
+  {
+    "id": 17,
+    "np": "NP II",
+    "question": "A pregnant woman receiving prenatal care has never received a tetanus toxoid (TT) vaccination. According to the DOH schedule, when should TT1 be given?",
+    "options": {
+      "A": "Only during the third trimester",
+      "B": "As early as possible during the current pregnancy",
+      "C": "Only during the postpartum period",
+      "D": "TT1 is not needed if she is asymptomatic"
+    },
+    "answer": "B",
+    "rationale": "TT1 should be given at the earliest contact with an unimmunized pregnant woman to begin building protection against maternal and neonatal tetanus as soon as possible."
+  },
+  {
+    "id": 18,
+    "np": "NP II",
+    "question": "A postpartum client, 3 days post-delivery, tells the nurse, 'I feel weepy and overwhelmed, but I still enjoy caring for my baby.' This is most consistent with:",
+    "options": {
+      "A": "Postpartum blues (baby blues)",
+      "B": "Postpartum depression",
+      "C": "Postpartum psychosis",
+      "D": "Bipolar disorder"
+    },
+    "answer": "A",
+    "rationale": "Postpartum blues is common, transient (peaks days 3–5, resolves within ~2 weeks), and does not impair the mother's ability to bond with or care for her infant — unlike postpartum depression or psychosis."
+  },
+  {
+    "id": 19,
+    "np": "NP II",
+    "question": "A breastfeeding mother on day 3 postpartum reports firm, warm, tender breasts bilaterally with milk let-down. What is the BEST nursing advice?",
+    "options": {
+      "A": "Stop breastfeeding until the swelling resolves",
+      "B": "Apply warm compress before feeding and continue frequent breastfeeding",
+      "C": "Apply ice packs only and avoid breastfeeding entirely",
+      "D": "Switch immediately to formula feeding"
+    },
+    "answer": "B",
+    "rationale": "For engorgement, warmth before feeding promotes let-down and drainage (cold after feeding reduces swelling); frequent breastfeeding/emptying is key to resolving engorgement, not stopping feeds."
+  },
+  {
+    "id": 20,
+    "np": "NP II",
+    "question": "A pregnant client at 32 weeks AOG reports a sudden gush of clear fluid from the vagina. What is the nurse's PRIORITY action?",
+    "options": {
+      "A": "Perform a sterile speculum exam herself immediately",
+      "B": "Assess fetal heart tones and check for umbilical cord prolapse",
+      "C": "Instruct the client to walk around to confirm leakage",
+      "D": "Discharge her home with instructions to monitor"
+    },
+    "answer": "B",
+    "rationale": "After suspected rupture of membranes, the priority is to assess fetal well-being and rule out cord prolapse (a life-threatening emergency), before any other intervention."
+  },
+  {
+    "id": 21,
+    "np": "NP III",
+    "question": "A client returns to the surgical ward following general anesthesia. The nurse notes noisy, gurgling respirations. What is the nurse's PRIORITY action?",
+    "options": {
+      "A": "Administer supplemental oxygen via nasal cannula",
+      "B": "Position the client in high Fowler's position",
+      "C": "Suction the airway and reposition the client to side-lying",
+      "D": "Call the physician immediately"
+    },
+    "answer": "C",
+    "rationale": "Gurgling respirations indicate airway secretions. The priority is to clear the airway via suctioning and side-lying positioning to prevent aspiration — airway always comes first."
+  },
+  {
+    "id": 22,
+    "np": "NP III",
+    "question": "A client has a chest tube connected to a water-seal drainage system following pneumothorax repair. The nurse observes continuous bubbling in the water-seal chamber. What does this indicate?",
+    "options": {
+      "A": "Normal fluctuation (tidaling) reflecting respiratory effort",
+      "B": "An air leak in the system",
+      "C": "The lung has fully re-expanded",
+      "D": "The suction is set too low"
+    },
+    "answer": "B",
+    "rationale": "Continuous bubbling in the water-seal chamber (as opposed to intermittent tidaling) signals an air leak in the chest tube system that requires investigation."
+  },
+  {
+    "id": 23,
+    "np": "NP III",
+    "question": "A client with renal failure has a serum potassium level of 6.8 mEq/L. Which ECG finding should the nurse anticipate?",
+    "options": {
+      "A": "Flattened T waves",
+      "B": "Tall, peaked T waves and widened QRS",
+      "C": "Prominent U waves",
+      "D": "Prolonged QT interval"
+    },
+    "answer": "B",
+    "rationale": "Hyperkalemia classically produces tall, peaked T waves and, as it worsens, a widened QRS complex — a medical emergency requiring prompt intervention."
+  },
+  {
+    "id": 24,
+    "np": "NP III",
+    "question": "A nurse sustains an accidental needlestick injury while drawing blood from a client with unknown HIV status. What is the nurse's FIRST action?",
+    "options": {
+      "A": "Report to the supervisor and fill out an incident report",
+      "B": "Wash the exposed area immediately with soap and water",
+      "C": "Take post-exposure prophylaxis (PEP) immediately without washing first",
+      "D": "Squeeze the wound vigorously to induce bleeding"
+    },
+    "answer": "B",
+    "rationale": "Immediate first aid — washing the site with soap and water (not squeezing) — comes first, followed by reporting and initiating the post-exposure protocol including PEP evaluation."
+  },
+  {
+    "id": 25,
+    "np": "NP III",
+    "question": "A client with neutropenia secondary to chemotherapy has an absolute neutrophil count (ANC) of 450/mm³. Which instruction is MOST important for the nurse to include?",
+    "options": {
+      "A": "Avoid fresh flowers and raw fruits/vegetables in the room",
+      "B": "Visitors with minor colds may still visit",
+      "C": "Fresh salads are encouraged to boost nutrition",
+      "D": "Hand hygiene is unnecessary since the client is the one at risk"
+    },
+    "answer": "A",
+    "rationale": "Neutropenic precautions minimize exposure to organisms — fresh flowers/plants (mold/bacteria) and raw produce (bacterial contamination) should be avoided; strict hand hygiene and avoiding sick visitors are essential."
+  },
+  {
+    "id": 26,
+    "np": "NP III",
+    "question": "A client with severe vomiting and diarrhea for 3 days presents with dry mucous membranes, poor skin turgor, tachycardia, and BP of 90/60 mmHg. This clinical picture is consistent with:",
+    "options": {
+      "A": "Fluid volume excess",
+      "B": "Fluid volume deficit",
+      "C": "Water intoxication",
+      "D": "Third-spacing without any deficit"
+    },
+    "answer": "B",
+    "rationale": "Dry mucous membranes, poor turgor, tachycardia, and hypotension following fluid losses (vomiting/diarrhea) are classic signs of fluid volume deficit (hypovolemia)."
+  },
+  {
+    "id": 27,
+    "np": "NP III",
+    "question": "A nurse is teaching a pre-operative client how to use an incentive spirometer. Which statement indicates the need for further teaching?",
+    "options": {
+      "A": "'I will inhale slowly and deeply through the mouthpiece.'",
+      "B": "'I should hold my breath for 3–5 seconds at peak inhalation.'",
+      "C": "'I will exhale forcefully into the device to raise the piston.'",
+      "D": "'I will use this device about 10 times every hour while awake.'"
+    },
+    "answer": "C",
+    "rationale": "Incentive spirometers work on INHALATION, not exhalation — the client should inhale slowly and deeply to raise the piston/ball, not exhale into the device. This statement shows a need for further teaching."
+  },
+  {
+    "id": 28,
+    "np": "NP III",
+    "question": "A client receiving IV penicillin suddenly develops hives, wheezing, and a BP drop to 80/50 mmHg. What is the nurse's FIRST action?",
+    "options": {
+      "A": "Slow the IV infusion rate",
+      "B": "Stop the infusion and administer epinephrine as prescribed",
+      "C": "Administer oral diphenhydramine",
+      "D": "Elevate the legs and continue the infusion at a slower rate"
+    },
+    "answer": "B",
+    "rationale": "These are signs of anaphylaxis. The infusion must be stopped immediately, and epinephrine is the first-line, life-saving treatment — continuing the infusion in any form is contraindicated."
+  },
+  {
+    "id": 29,
+    "np": "NP III",
+    "question": "Fifteen minutes into a blood transfusion, a client develops chills, fever, flank pain, and reddish urine. What is the nurse's PRIORITY action?",
+    "options": {
+      "A": "Slow the transfusion rate and continue monitoring",
+      "B": "Stop the transfusion immediately and keep the IV line open with normal saline",
+      "C": "Administer antipyretics and continue the transfusion",
+      "D": "Document findings and reassess in 30 minutes"
+    },
+    "answer": "B",
+    "rationale": "These findings suggest an acute hemolytic transfusion reaction. The transfusion must be stopped immediately, and the line kept open with plain NS while the reaction is reported and managed."
+  },
+  {
+    "id": 30,
+    "np": "NP III",
+    "question": "A client with chronic kidney disease has ABG results: pH 7.28, HCO3 16 mEq/L, PaCO2 32 mmHg. This is consistent with:",
+    "options": {
+      "A": "Metabolic acidosis, partially compensated",
+      "B": "Respiratory acidosis, uncompensated",
+      "C": "Metabolic alkalosis, compensated",
+      "D": "Respiratory alkalosis, partially compensated"
+    },
+    "answer": "A",
+    "rationale": "Low pH (acidosis) with low HCO3 points to a metabolic origin; the low PaCO2 shows the lungs are compensating by blowing off CO2 — but since pH remains abnormal, it is only partially compensated metabolic acidosis, consistent with renal failure."
+  },
+  {
+    "id": 31,
+    "np": "NP IV",
+    "question": "A client with Type 1 diabetes mellitus presents with Kussmaul respirations, fruity breath odor, blood glucose of 450 mg/dL, and altered mental status. What is the nurse's PRIORITY intervention?",
+    "options": {
+      "A": "Administer subcutaneous regular insulin",
+      "B": "Initiate IV fluid replacement with normal saline",
+      "C": "Administer oral glucose tablets",
+      "D": "Administer IV sodium bicarbonate immediately"
+    },
+    "answer": "B",
+    "rationale": "In DKA management, IV fluid resuscitation with 0.9% NS is the priority first step to correct dehydration and improve perfusion, followed by IV (not subcutaneous) insulin therapy."
+  },
+  {
+    "id": 32,
+    "np": "NP IV",
+    "question": "A client with diabetes mellitus becomes diaphoretic, shaky, and confused. Blood glucose is 52 mg/dL and the client is conscious and able to swallow. What is the nurse's PRIORITY action?",
+    "options": {
+      "A": "Administer 15–20 g of fast-acting oral carbohydrate",
+      "B": "Administer regular insulin",
+      "C": "Give IV D50W immediately",
+      "D": "Withhold food and recheck glucose in 1 hour"
+    },
+    "answer": "A",
+    "rationale": "The Rule of 15 applies for a conscious hypoglycemic client who can swallow: give 15–20g fast-acting carbohydrate, recheck glucose in 15 minutes, and repeat as needed. IV dextrose is reserved for clients who cannot swallow or are unconscious."
+  },
+  {
+    "id": 33,
+    "np": "NP IV",
+    "question": "A client with liver cirrhosis and hepatic encephalopathy is prescribed lactulose. What is the expected therapeutic outcome the nurse should monitor for?",
+    "options": {
+      "A": "Increased serum ammonia levels",
+      "B": "2–3 soft stools per day",
+      "C": "Decreased frequency of bowel movements",
+      "D": "Resolution of jaundice"
+    },
+    "answer": "B",
+    "rationale": "Lactulose lowers serum ammonia by promoting its excretion through the bowel. The therapeutic goal is typically 2–3 soft stools per day, indicating effective ammonia clearance."
+  },
+  {
+    "id": 34,
+    "np": "NP IV",
+    "question": "A client with a traumatic brain injury exhibits increasing blood pressure, widening pulse pressure, and bradycardia. The nurse recognizes this as Cushing's Triad, indicating:",
+    "options": {
+      "A": "Impending herniation from increased intracranial pressure",
+      "B": "Hypovolemic shock",
+      "C": "A normal compensatory response to pain",
+      "D": "Improving neurological status"
+    },
+    "answer": "A",
+    "rationale": "Cushing's Triad (hypertension with widening pulse pressure, bradycardia, and irregular respirations) is a late, ominous sign of rising intracranial pressure and impending brain herniation."
+  },
+  {
+    "id": 35,
+    "np": "NP IV",
+    "question": "A client arrives at the ER with sudden onset of facial drooping, slurred speech, and left arm weakness that began 2 hours ago. What is the nurse's PRIORITY action?",
+    "options": {
+      "A": "Obtain a non-contrast CT scan of the head STAT",
+      "B": "Administer aspirin immediately",
+      "C": "Start a tPA (alteplase) infusion right away",
+      "D": "Wait for family to arrive to obtain consent"
+    },
+    "answer": "A",
+    "rationale": "A non-contrast CT scan must be done first to distinguish ischemic from hemorrhagic stroke, since thrombolytics (tPA) and antiplatelets are contraindicated in hemorrhagic stroke."
+  },
+  {
+    "id": 36,
+    "np": "NP IV",
+    "question": "A client begins having a generalized tonic-clonic seizure while in bed. What is the nurse's PRIORITY action?",
+    "options": {
+      "A": "Insert a padded tongue depressor to prevent tongue biting",
+      "B": "Restrain the client's extremities to prevent injury",
+      "C": "Turn the client to the side and protect the head; do not restrain",
+      "D": "Perform CPR immediately"
+    },
+    "answer": "C",
+    "rationale": "During a seizure, the nurse should protect the client from injury by turning them to the side (to maintain airway patency and prevent aspiration) and cushioning the head — never insert objects into the mouth or restrain the limbs."
+  },
+  {
+    "id": 37,
+    "np": "NP IV",
+    "question": "A client with a history of peptic ulcer disease vomits bright red blood and reports dizziness. Which assessment finding is the nurse's PRIORITY to monitor?",
+    "options": {
+      "A": "Bowel sounds",
+      "B": "Blood pressure and heart rate for signs of hypovolemic shock",
+      "C": "Abdominal girth measurement",
+      "D": "Serum amylase level"
+    },
+    "answer": "B",
+    "rationale": "Active GI bleeding with dizziness raises concern for hypovolemic shock; vital signs (BP, HR) are the priority ongoing assessment to detect and guide management of hemodynamic instability."
+  },
+  {
+    "id": 38,
+    "np": "NP IV",
+    "question": "A client with hyperthyroidism who recently underwent thyroidectomy develops fever of 39.5°C, tachycardia of 160 bpm, severe agitation, and hypertension. The nurse suspects:",
+    "options": {
+      "A": "Myxedema coma",
+      "B": "Thyroid storm",
+      "C": "Addisonian crisis",
+      "D": "Hypoglycemia"
+    },
+    "answer": "B",
+    "rationale": "Thyroid storm (thyrotoxic crisis) presents with high fever, marked tachycardia, agitation, and hypertension, and is a life-threatening complication that can be triggered by thyroid surgery."
+  },
+  {
+    "id": 39,
+    "np": "NP IV",
+    "question": "A client with Addison's disease who abruptly stopped taking prescribed corticosteroids presents with severe hypotension, weakness, and abdominal pain. The nurse anticipates which PRIORITY intervention?",
+    "options": {
+      "A": "Administer IV hydrocortisone as prescribed",
+      "B": "Restrict fluids",
+      "C": "Administer insulin",
+      "D": "Encourage oral potassium supplements"
+    },
+    "answer": "A",
+    "rationale": "This presentation is consistent with an Addisonian (adrenal) crisis. IV hydrocortisone replacement is the priority, life-saving intervention along with IV fluids and glucose."
+  },
+  {
+    "id": 40,
+    "np": "NP IV",
+    "question": "A client with Parkinson's disease is prescribed levodopa-carbidopa. Which instruction is MOST important for the nurse to include?",
+    "options": {
+      "A": "Take this medication with a high-protein meal for better absorption",
+      "B": "Take this medication on a consistent schedule and avoid high-protein meals close to dosing",
+      "C": "Stop the medication immediately if dyskinesia is noticed",
+      "D": "This drug should be taken only once weekly"
+    },
+    "answer": "B",
+    "rationale": "High-protein meals compete with levodopa for absorption across the blood-brain barrier, reducing its effectiveness. Consistent timing and spacing from protein-heavy meals optimizes drug action."
+  },
+  {
+    "id": 41,
+    "np": "NP V",
+    "question": "A client states, 'I have a plan to end my life tonight by taking all my pills.' What is the nurse's PRIORITY action?",
+    "options": {
+      "A": "Ask the client to promise not to harm themselves",
+      "B": "Notify the physician and initiate suicide precautions/close observation",
+      "C": "Leave the client alone to reflect",
+      "D": "Document the statement and continue routine care"
+    },
+    "answer": "B",
+    "rationale": "A specific, lethal plan is a high-risk statement requiring immediate safety measures — close observation/suicide precautions and prompt physician notification, not a 'no-harm contract,' which is not evidence-based for safety."
+  },
+  {
+    "id": 42,
+    "np": "NP V",
+    "question": "A client with schizophrenia tells the nurse, 'The voices are telling me to hurt myself.' What is the nurse's BEST response?",
+    "options": {
+      "A": "'The voices aren't real, ignore them.'",
+      "B": "'I don't hear any voices, but I understand they seem real to you. Let's make sure you're safe.'",
+      "C": "'Why do the voices want to hurt you?'",
+      "D": "'You need to control your thoughts better.'"
+    },
+    "answer": "B",
+    "rationale": "The nurse should acknowledge the client's experience without validating the hallucination as real, present reality gently, and prioritize safety — this response does all three."
+  },
+  {
+    "id": 43,
+    "np": "NP V",
+    "question": "A client with a history of chronic alcohol use is admitted for surgery. On the second hospital day, the client becomes tremulous, diaphoretic, tachycardic, and reports seeing insects crawling on the walls. The nurse recognizes this as:",
+    "options": {
+      "A": "Alcohol withdrawal delirium (delirium tremens)",
+      "B": "Wernicke's encephalopathy",
+      "C": "Acute alcohol intoxication",
+      "D": "Schizophrenia"
+    },
+    "answer": "A",
+    "rationale": "Tremors, autonomic hyperactivity, and visual hallucinations emerging 48–96 hours after the last drink are classic for delirium tremens, a medical emergency requiring prompt treatment."
+  },
+  {
+    "id": 44,
+    "np": "NP V",
+    "question": "A client experiencing a panic attack reports chest tightness, hyperventilation, and fear of dying. What is the nurse's PRIORITY intervention?",
+    "options": {
+      "A": "Leave the client alone to calm down",
+      "B": "Stay with the client and use a calm, low-stimulation approach with simple instructions",
+      "C": "Immediately administer a PRN sedative without assessment",
+      "D": "Encourage the client to discuss the underlying cause of anxiety in detail"
+    },
+    "answer": "B",
+    "rationale": "During acute panic, the nurse should never leave the client alone; staying present, remaining calm, and giving simple, short directions helps reduce the panic before any deeper exploration or medication decisions."
+  },
+  {
+    "id": 45,
+    "np": "NP V",
+    "question": "A post-surgical client develops fever, tachycardia, tachypnea, and altered mental status. The nurse suspects early sepsis. Which action is the PRIORITY?",
+    "options": {
+      "A": "Obtain blood cultures before starting antibiotics, then administer antibiotics promptly",
+      "B": "Wait for culture results before any intervention",
+      "C": "Administer antipyretics only and reassess later",
+      "D": "Begin discharge planning immediately"
+    },
+    "answer": "A",
+    "rationale": "Sepsis bundles emphasize obtaining cultures before antibiotics when feasible, but antibiotics must not be delayed — the priority is prompt empiric therapy after cultures are drawn, not withholding treatment."
+  },
+  {
+    "id": 46,
+    "np": "NP V",
+    "question": "During a mass casualty earthquake response, using the START (Simple Triage and Rapid Treatment) system, a nurse encounters a victim who is not breathing even after airway repositioning. This victim is triaged as:",
+    "options": {
+      "A": "Red (Immediate)",
+      "B": "Yellow (Delayed)",
+      "C": "Green (Minor)",
+      "D": "Black (Deceased/Expectant)"
+    },
+    "answer": "D",
+    "rationale": "In START triage, a victim who remains apneic after airway repositioning is classified Black (deceased/expectant) — resources are prioritized toward salvageable victims."
+  },
+  {
+    "id": 47,
+    "np": "NP V",
+    "question": "A client in the ICU suddenly becomes unresponsive and pulseless, with the cardiac monitor showing ventricular fibrillation. What is the nurse's PRIORITY action?",
+    "options": {
+      "A": "Administer amiodarone immediately",
+      "B": "Begin high-quality chest compressions and call for the defibrillator",
+      "C": "Check the client's blood glucose level",
+      "D": "Prepare for intubation first"
+    },
+    "answer": "B",
+    "rationale": "For pulseless VF, immediate high-quality CPR and early defibrillation are the priority actions per ACLS — medications and advanced airway management follow."
+  },
+  {
+    "id": 48,
+    "np": "NP V",
+    "question": "A client with borderline personality disorder tells the nurse, 'You're the only one who understands me; the other nurses are terrible.' What is the nurse's BEST response, recognizing this as splitting?",
+    "options": {
+      "A": "Agree that other staff are less competent",
+      "B": "'I'm part of a team, and we all provide the same level of care for you.'",
+      "C": "Avoid assigning the client to other nurses going forward",
+      "D": "Report the other nurses to the supervisor"
+    },
+    "answer": "B",
+    "rationale": "Splitting (viewing people as all-good or all-bad) is managed by maintaining a consistent, unified team approach and gently reinforcing that all staff provide equal, consistent care."
+  },
+  {
+    "id": 49,
+    "np": "NP V",
+    "question": "A client who recently lost a spouse tells the nurse, 'I still set two plates at dinner sometimes.' The nurse recognizes this as part of:",
+    "options": {
+      "A": "Complicated/prolonged grief disorder requiring immediate referral",
+      "B": "A normal grieving process",
+      "C": "Major depressive disorder",
+      "D": "Denial requiring confrontation"
+    },
+    "answer": "B",
+    "rationale": "Occasional reminders of habitual behavior tied to the deceased are a normal part of grieving and do not, by themselves, indicate a pathological grief response."
+  },
+  {
+    "id": 50,
+    "np": "NP V",
+    "question": "A confused client attempts to pull out an IV line and climbs out of bed despite bed alarms and frequent reorientation. The nurse determines restraints may be necessary. What is the correct FIRST step according to legal/ethical guidelines?",
+    "options": {
+      "A": "Apply restraints immediately without a physician's order",
+      "B": "Exhaust and document least restrictive alternatives first, then obtain a time-limited physician's order if restraints are necessary",
+      "C": "Restrain the client indefinitely once applied, with no need for reassessment",
+      "D": "Restrain the client only if the family requests it"
+    },
+    "answer": "B",
+    "rationale": "Restraints are a last resort. The nurse must document that less restrictive alternatives were tried first, and restraints require a specific, time-limited physician's order with ongoing reassessment."
+  }
 
+  {
+    "id": 51,
+    "np": "NP I",
+    "question": "Which level of prevention is exemplified by a nurse providing health teaching on proper handwashing to prevent the spread of infection in a healthy community?",
+    "options": {
+      "A": "Primary prevention",
+      "B": "Secondary prevention",
+      "C": "Tertiary prevention",
+      "D": "Health restoration"
+    },
+    "answer": "A",
+    "rationale": "Primary prevention aims to prevent disease before it occurs through health promotion and specific protection measures, such as hygiene education, before any exposure or illness."
+  },
+  {
+    "id": 52,
+    "np": "NP I",
+    "question": "A barangay recorded 20 new cases of measles in one week, up from an average of 4 cases per week over the past year. Using epidemiologic principles, this pattern represents:",
+    "options": {
+      "A": "Sporadic occurrence",
+      "B": "Endemic pattern",
+      "C": "Epidemic",
+      "D": "Pandemic"
+    },
+    "answer": "C",
+    "rationale": "A marked increase in cases beyond the expected baseline within a defined area and time frame defines an epidemic. Pandemic would require spread across multiple countries/continents."
+  },
+  {
+    "id": 53,
+    "np": "NP I",
+    "question": "As part of the DOH School-Based Deworming Program, how often should preschool and school-age children in endemic areas receive deworming tablets?",
+    "options": {
+      "A": "Once a year",
+      "B": "Twice a year (every 6 months)",
+      "C": "Once every 2 years",
+      "D": "Only when symptomatic"
+    },
+    "answer": "B",
+    "rationale": "The DOH mass deworming program targets children 1–18 years old with deworming tablets given every 6 months to control soil-transmitted helminthiasis."
+  },
+  {
+    "id": 54,
+    "np": "NP I",
+    "question": "In malaria-endemic areas, the DOH promotes the use of insecticide-treated mosquito nets (ITNs). This intervention primarily targets which vector-control principle?",
+    "options": {
+      "A": "Eliminating the reservoir",
+      "B": "Blocking the mode of transmission",
+      "C": "Increasing host resistance",
+      "D": "Chemoprophylaxis"
+    },
+    "answer": "B",
+    "rationale": "ITNs physically and chemically block the mosquito vector from biting the host during sleep, interrupting the mode of transmission of the malaria parasite."
+  },
+  {
+    "id": 55,
+    "np": "NP I",
+    "question": "A community health nurse conducts mass drug administration (MDA) with diethylcarbamazine citrate (DEC) + albendazole in a filariasis-endemic province. What is the PRIMARY goal of MDA?",
+    "options": {
+      "A": "Cure existing severe lymphedema",
+      "B": "Interrupt transmission by reducing microfilariae in the population",
+      "C": "Eliminate the mosquito vector entirely",
+      "D": "Diagnose new active cases"
+    },
+    "answer": "B",
+    "rationale": "MDA aims to reduce the microfilarial load in the community's blood reservoir below the threshold needed to sustain transmission, not to reverse existing chronic lymphedema."
+  },
+  {
+    "id": 56,
+    "np": "NP I",
+    "question": "A community health nurse teaches residents near freshwater snail habitats about schistosomiasis prevention. Which instruction is MOST appropriate?",
+    "options": {
+      "A": "Avoid wading or swimming in stagnant freshwater in endemic areas",
+      "B": "Boil all drinking water specifically for schistosomiasis prevention",
+      "C": "Use mosquito nets while sleeping",
+      "D": "Take prophylactic antibiotics before wading"
+    },
+    "answer": "A",
+    "rationale": "Schistosomiasis is transmitted when cercariae released by infected snails penetrate skin during contact with contaminated freshwater — avoiding wading/swimming in endemic waters is the key preventive measure."
+  },
+  {
+    "id": 57,
+    "np": "NP I",
+    "question": "According to Philippine maternal health data, which is the LEADING cause of maternal mortality that community health nurses should prioritize prevention efforts for?",
+    "options": {
+      "A": "Ectopic pregnancy",
+      "B": "Postpartum hemorrhage",
+      "C": "Hyperemesis gravidarum",
+      "D": "Molar pregnancy"
+    },
+    "answer": "B",
+    "rationale": "Postpartum hemorrhage remains a leading direct cause of maternal death in the Philippines, making active management of the third stage of labor and early recognition a key community health priority."
+  },
+  {
+    "id": 58,
+    "np": "NP I",
+    "question": "Under the DOH Micronutrient Supplementation Program, how often should a 6-to-12-month-old infant receive Vitamin A supplementation?",
+    "options": {
+      "A": "Every month",
+      "B": "Every 6 months (twice a year)",
+      "C": "Only once in a lifetime",
+      "D": "Only if symptomatic with night blindness"
+    },
+    "answer": "B",
+    "rationale": "The DOH Vitamin A Supplementation Program provides high-dose Vitamin A capsules every 6 months to children 6–59 months old to prevent deficiency-related morbidity and mortality."
+  },
+  {
+    "id": 59,
+    "np": "NP I",
+    "question": "Under RA 9003 (Ecological Solid Waste Management Act), a community health nurse teaches households to segregate waste at source. Biodegradable waste (e.g., food scraps) should be placed in which colored container per common LGU practice?",
+    "options": {
+      "A": "Green",
+      "B": "Black",
+      "C": "Yellow",
+      "D": "Red"
+    },
+    "answer": "A",
+    "rationale": "Under common LGU waste segregation schemes implementing RA 9003, green typically designates biodegradable waste, while other colors are used for recyclable, residual, and special/hazardous waste."
+  },
+  {
+    "id": 60,
+    "np": "NP I",
+    "question": "A farmer is bitten by a stray dog with unknown vaccination status, sustaining a transdermal bite with bleeding (Category III exposure). What is the nurse's PRIORITY action?",
+    "options": {
+      "A": "Observe the dog for 14 days before initiating any treatment",
+      "B": "Wash the wound immediately with soap and water for 10–15 minutes, then refer for anti-rabies vaccination and rabies immunoglobulin",
+      "C": "Apply antibiotic ointment only and monitor at home",
+      "D": "Give tetanus toxoid only; rabies vaccine is not necessary"
+    },
+    "answer": "B",
+    "rationale": "Category III exposures require immediate, thorough wound washing plus both active (vaccine) and passive (rabies immunoglobulin) immunization without delay, given the near-100% fatality of untreated rabies."
+  },
+  {
+    "id": 61,
+    "np": "NP II",
+    "question": "A client reports 1 full-term birth, 1 preterm birth, 0 abortions, and 2 living children, and is currently pregnant. Using the GTPAL system, how should her obstetric history be documented including the current pregnancy?",
+    "options": {
+      "A": "G3 T1 P1 A0 L2",
+      "B": "G4 T1 P1 A0 L2",
+      "C": "G3 T2 P0 A0 L2",
+      "D": "G4 T2 P0 A0 L2"
+    },
+    "answer": "B",
+    "rationale": "Gravida counts all pregnancies including the current one (3 previous + 1 current = G4). Term (1), Preterm (1), Abortions (0), and Living children (2) remain as reported from prior pregnancies."
+  },
+  {
+    "id": 62,
+    "np": "NP II",
+    "question": "A pregnant client at 32 weeks AOG presents with sudden, painless, bright red vaginal bleeding. The nurse should suspect:",
+    "options": {
+      "A": "Placenta previa",
+      "B": "Abruptio placentae",
+      "C": "Ectopic pregnancy",
+      "D": "Normal bloody show"
+    },
+    "answer": "A",
+    "rationale": "Placenta previa classically presents with painless, bright red vaginal bleeding, in contrast to abruptio placentae which typically presents with painful bleeding and a rigid, tender abdomen."
+  },
+  {
+    "id": 63,
+    "np": "NP II",
+    "question": "A client at 8 weeks AOG presents with unilateral lower abdominal pain, vaginal spotting, and a positive pregnancy test. The nurse should further assess for which life-threatening condition?",
+    "options": {
+      "A": "Threatened abortion",
+      "B": "Ectopic pregnancy",
+      "C": "Hydatidiform mole",
+      "D": "Placenta previa"
+    },
+    "answer": "B",
+    "rationale": "Unilateral pelvic pain with early pregnancy and spotting is a classic presentation of ectopic pregnancy, which can rupture and cause life-threatening hemorrhage if not promptly identified."
+  },
+  {
+    "id": 64,
+    "np": "NP II",
+    "question": "During continuous fetal monitoring, the nurse observes late decelerations that persist despite maternal repositioning. What is the nurse's PRIORITY action?",
+    "options": {
+      "A": "Continue routine monitoring without changes",
+      "B": "Discontinue oxytocin if infusing, reposition to left lateral, administer oxygen, and notify the physician",
+      "C": "Encourage the client to ambulate around the room",
+      "D": "Document the finding and reassess in 1 hour"
+    },
+    "answer": "B",
+    "rationale": "Persistent late decelerations indicate uteroplacental insufficiency and possible fetal hypoxia — the nurse must intervene immediately with intrauterine resuscitation measures and notify the physician."
+  },
+  {
+    "id": 65,
+    "np": "NP II",
+    "question": "To prevent cold stress in a newly delivered term newborn, which nursing action is the PRIORITY immediately after birth?",
+    "options": {
+      "A": "Bathe the newborn immediately to remove vernix",
+      "B": "Dry the newborn thoroughly and place skin-to-skin with the mother, covering both with a warm blanket",
+      "C": "Place the newborn under a fan to promote alertness",
+      "D": "Delay drying until after the first feeding"
+    },
+    "answer": "B",
+    "rationale": "Immediate drying and skin-to-skin contact with the mother (kangaroo care) under a warm blanket prevents evaporative heat loss and cold stress, which can lead to hypoglycemia and respiratory distress in the newborn."
+  },
+  {
+    "id": 66,
+    "np": "NP II",
+    "question": "A physician orders amoxicillin 40 mg/kg/day divided every 8 hours for a child weighing 15 kg. How many mg should the nurse administer per dose?",
+    "options": {
+      "A": "100 mg",
+      "B": "200 mg",
+      "C": "300 mg",
+      "D": "400 mg"
+    },
+    "answer": "B",
+    "rationale": "40 mg/kg/day × 15 kg = 600 mg/day. Divided into 3 doses (every 8 hours) = 200 mg per dose."
+  },
+  {
+    "id": 67,
+    "np": "NP II",
+    "question": "A mother asks the nurse at what age her infant should be able to sit without support. The nurse's BEST response is:",
+    "options": {
+      "A": "2–3 months",
+      "B": "6–8 months",
+      "C": "10–12 months",
+      "D": "12–15 months"
+    },
+    "answer": "B",
+    "rationale": "Most infants achieve independent sitting without support between 6 and 8 months of age as part of typical gross motor development."
+  },
+  {
+    "id": 68,
+    "np": "NP II",
+    "question": "A newborn with a cleft lip and palate is being prepared for feeding. Which feeding technique is MOST appropriate?",
+    "options": {
+      "A": "Use a regular straight nipple and feed in a flat, supine position",
+      "B": "Use a specialized cleft-palate nipple/bottle and feed in an upright position",
+      "C": "Feed only via nasogastric tube until surgical repair",
+      "D": "Withhold oral feeding entirely until surgery"
+    },
+    "answer": "B",
+    "rationale": "Specialized cleft-adapted nipples/bottles compensate for the inability to create suction, and upright positioning reduces the risk of aspiration and nasal regurgitation."
+  },
+  {
+    "id": 69,
+    "np": "NP II",
+    "question": "A term newborn develops jaundice on day 3 of life and requires phototherapy. Which nursing action is a PRIORITY during phototherapy?",
+    "options": {
+      "A": "Keep the newborn fully clothed to prevent skin damage",
+      "B": "Cover the newborn's eyes with an eye mask and expose as much skin as possible",
+      "C": "Limit fluid intake to prevent overhydration",
+      "D": "Turn off phototherapy during feeding for at least 1 hour"
+    },
+    "answer": "B",
+    "rationale": "Eye protection prevents retinal damage from phototherapy lights, while maximal skin exposure ensures effective bilirubin breakdown; fluids are typically increased, not restricted, to prevent dehydration."
+  },
+  {
+    "id": 70,
+    "np": "NP II",
+    "question": "A postpartum client asks about the Lactational Amenorrhea Method (LAM) as a temporary family planning method. The nurse should confirm which criteria for LAM to be effective?",
+    "options": {
+      "A": "Exclusive breastfeeding, amenorrhea, and baby is less than 6 months old",
+      "B": "Any breastfeeding pattern regardless of menses",
+      "C": "Baby is older than 6 months",
+      "D": "Mixed feeding with formula supplementation"
+    },
+    "answer": "A",
+    "rationale": "LAM is effective only when all three criteria are met: exclusive breastfeeding, amenorrhea has not returned, and the infant is under 6 months old. Any deviation reduces contraceptive reliability."
+  },
+  {
+    "id": 71,
+    "np": "NP III",
+    "question": "A nurse is caring for a postoperative client at risk for deep vein thrombosis (DVT). Which intervention is MOST effective for prevention?",
+    "options": {
+      "A": "Keep the client on strict bed rest for 5 days",
+      "B": "Encourage early ambulation and apply sequential compression devices as ordered",
+      "C": "Massage the calves vigorously twice daily",
+      "D": "Restrict fluid intake"
+    },
+    "answer": "B",
+    "rationale": "Early ambulation and mechanical prophylaxis (SCDs) promote venous return and reduce stasis, the key modifiable factor in DVT prevention; calf massage is contraindicated due to embolization risk."
+  },
+  {
+    "id": 72,
+    "np": "NP III",
+    "question": "A client with a leg cast reports severe pain unrelieved by analgesics, numbness, and pallor of the toes. The nurse suspects:",
+    "options": {
+      "A": "Normal post-casting discomfort",
+      "B": "Compartment syndrome",
+      "C": "Deep vein thrombosis",
+      "D": "Osteomyelitis"
+    },
+    "answer": "B",
+    "rationale": "Pain out of proportion to injury, unrelieved by analgesics, along with pallor, paresthesia, and pulselessness, are hallmark signs of compartment syndrome — a limb-threatening emergency."
+  },
+  {
+    "id": 73,
+    "np": "NP III",
+    "question": "Using the Parkland formula for a 70 kg client with 40% TBSA burns, how much IV Lactated Ringer's should be given in the FIRST 8 hours after the burn?",
+    "options": {
+      "A": "2,800 mL",
+      "B": "5,600 mL",
+      "C": "11,200 mL",
+      "D": "8,400 mL"
+    },
+    "answer": "B",
+    "rationale": "Parkland formula: 4 mL × weight (kg) × %TBSA = total 24-hour fluid. 4 × 70 × 40 = 11,200 mL for 24 hours; half (5,600 mL) is given in the first 8 hours post-burn."
+  },
+  {
+    "id": 74,
+    "np": "NP III",
+    "question": "A client in respiratory distress requires a high concentration of oxygen delivery (up to 90–100%) while breathing spontaneously. Which device should the nurse prepare?",
+    "options": {
+      "A": "Nasal cannula",
+      "B": "Simple face mask",
+      "C": "Non-rebreather mask",
+      "D": "Venturi mask"
+    },
+    "answer": "C",
+    "rationale": "A non-rebreather mask with a reservoir bag and one-way valves can deliver the highest FiO2 (up to nearly 100%) among non-invasive spontaneous-breathing oxygen delivery devices."
+  },
+  {
+    "id": 75,
+    "np": "NP III",
+    "question": "A client is admitted with active pulmonary tuberculosis. Which type of isolation precaution should the nurse implement?",
+    "options": {
+      "A": "Contact precautions",
+      "B": "Droplet precautions",
+      "C": "Airborne precautions with a negative-pressure room and N95 respirator",
+      "D": "Standard precautions only"
+    },
+    "answer": "C",
+    "rationale": "TB is spread via airborne droplet nuclei that remain suspended in air; airborne precautions require a negative-pressure room and fit-tested N95 respirators for anyone entering the room."
+  },
+  {
+    "id": 76,
+    "np": "NP III",
+    "question": "A nurse teaches a client with iron-deficiency anemia about oral ferrous sulfate supplementation. Which instruction is correct?",
+    "options": {
+      "A": "Take with milk to reduce gastric upset",
+      "B": "Take on an empty stomach with vitamin C-rich juice to enhance absorption",
+      "C": "Take with antacids to prevent constipation",
+      "D": "Expect stools to turn light-colored/clay-colored"
+    },
+    "answer": "B",
+    "rationale": "Vitamin C enhances iron absorption, while milk and antacids impair it. Iron supplements typically cause stools to turn dark/black, not clay-colored."
+  },
+  {
+    "id": 77,
+    "np": "NP III",
+    "question": "While administering a vesicant chemotherapeutic agent via peripheral IV, the nurse notes swelling, pain, and no blood return at the site. What is the nurse's PRIORITY action?",
+    "options": {
+      "A": "Increase the infusion rate to flush the line",
+      "B": "Stop the infusion immediately and follow the extravasation protocol",
+      "C": "Apply a warm compress and continue the infusion",
+      "D": "Reposition the extremity and continue infusing"
+    },
+    "answer": "B",
+    "rationale": "Suspected extravasation of a vesicant requires immediately stopping the infusion to prevent severe tissue damage, followed by institution-specific extravasation management protocols."
+  },
+  {
+    "id": 78,
+    "np": "NP III",
+    "question": "A client with systemic lupus erythematosus (SLE) asks how to prevent disease flares. Which instruction is MOST appropriate?",
+    "options": {
+      "A": "Increase sun exposure to boost vitamin D",
+      "B": "Avoid direct sunlight and use sunscreen; report increased fatigue or joint pain promptly",
+      "C": "Discontinue prescribed medications once symptoms improve",
+      "D": "Engage in strenuous exercise daily to reduce inflammation"
+    },
+    "answer": "B",
+    "rationale": "UV light exposure is a well-known trigger for SLE flares; sun protection and prompt reporting of early flare symptoms help prevent exacerbations and organ damage."
+  },
+  {
+    "id": 79,
+    "np": "NP III",
+    "question": "A client has a serum sodium level of 118 mEq/L. Which clinical manifestation should the nurse anticipate?",
+    "options": {
+      "A": "Muscle twitching and hyperreflexia only",
+      "B": "Confusion, headache, and potential seizures",
+      "C": "Tetany and Chvostek's sign",
+      "D": "Polyuria and extreme thirst"
+    },
+    "answer": "B",
+    "rationale": "Severe hyponatremia (below 120 mEq/L) causes cerebral edema, leading to confusion, headache, and seizures — a neurological emergency requiring careful, gradual sodium correction."
+  },
+  {
+    "id": 80,
+    "np": "NP III",
+    "question": "Three days after abdominal surgery, a client coughs and reports a sudden 'popping' sensation followed by profuse serosanguineous drainage and visible loops of bowel through the incision. What is the nurse's PRIORITY action?",
+    "options": {
+      "A": "Attempt to push the protruding bowel back into the abdomen",
+      "B": "Cover the area with a sterile saline-soaked dressing, keep the client NPO, and notify the surgeon immediately",
+      "C": "Apply a dry sterile dressing and document for the next shift",
+      "D": "Assist the client to ambulate to reduce abdominal pressure"
+    },
+    "answer": "B",
+    "rationale": "This describes wound evisceration, a surgical emergency. The nurse should never push organs back in; cover with sterile saline-soaked gauze, keep the client NPO and calm, and notify the surgeon immediately."
+  },
+  {
+    "id": 81,
+    "np": "NP IV",
+    "question": "A client recovering from a laparoscopic cholecystectomy asks about dietary modifications. Which instruction is MOST appropriate?",
+    "options": {
+      "A": "Follow a high-fat diet to stimulate bile flow",
+      "B": "Gradually resume a low-fat diet and avoid fried, greasy foods",
+      "C": "Avoid all fats permanently for life",
+      "D": "No dietary restrictions are necessary at any time"
+    },
+    "answer": "B",
+    "rationale": "After cholecystectomy, a low-fat diet is recommended initially since bile flow regulation is altered without the gallbladder; most clients can gradually liberalize their diet over time."
+  },
+  {
+    "id": 82,
+    "np": "NP IV",
+    "question": "A client with acute pancreatitis is kept NPO. The nurse explains that this intervention primarily aims to:",
+    "options": {
+      "A": "Prevent nausea and vomiting only",
+      "B": "Rest the pancreas by reducing stimulation of pancreatic enzyme secretion",
+      "C": "Prevent hyperglycemia",
+      "D": "Promote weight loss during hospitalization"
+    },
+    "answer": "B",
+    "rationale": "NPO status minimizes stimulation of pancreatic enzyme secretion, allowing the inflamed pancreas to rest and reducing autodigestion and further tissue damage."
+  },
+  {
+    "id": 83,
+    "np": "NP IV",
+    "question": "A client diagnosed with H. pylori-associated peptic ulcer disease is prescribed triple therapy. Which combination should the nurse expect?",
+    "options": {
+      "A": "A proton pump inhibitor plus two antibiotics (e.g., clarithromycin and amoxicillin)",
+      "B": "An antacid alone",
+      "C": "An H2 blocker and a laxative",
+      "D": "NSAIDs and a corticosteroid"
+    },
+    "answer": "A",
+    "rationale": "Standard H. pylori eradication triple therapy combines a proton pump inhibitor with two antibiotics (commonly clarithromycin and amoxicillin or metronidazole) for 10–14 days."
+  },
+  {
+    "id": 84,
+    "np": "NP IV",
+    "question": "A client with untreated hypothyroidism is admitted with hypothermia, bradycardia, hypotension, and a decreased level of consciousness. The nurse suspects:",
+    "options": {
+      "A": "Thyroid storm",
+      "B": "Myxedema coma",
+      "C": "Addisonian crisis",
+      "D": "Diabetic ketoacidosis"
+    },
+    "answer": "B",
+    "rationale": "Myxedema coma is a life-threatening complication of severe, untreated hypothyroidism, presenting with hypothermia, bradycardia, hypotension, and altered mental status."
+  },
+  {
+    "id": 85,
+    "np": "NP IV",
+    "question": "A client with a head injury has excessive dilute urine output (6 L/day) with a urine specific gravity of 1.001 and serum sodium of 152 mEq/L. The nurse suspects:",
+    "options": {
+      "A": "Syndrome of Inappropriate Antidiuretic Hormone (SIADH)",
+      "B": "Diabetes Insipidus (DI)",
+      "C": "Diabetic ketoacidosis",
+      "D": "Acute kidney injury"
+    },
+    "answer": "B",
+    "rationale": "Diabetes insipidus results from ADH deficiency (often after head trauma), causing massive dilute urine output, very low urine specific gravity, and hypernatremia from free water loss."
+  },
+  {
+    "id": 86,
+    "np": "NP IV",
+    "question": "A client with Guillain-Barré syndrome is being monitored closely by the nurse. Which assessment is the PRIORITY due to the ascending nature of this condition?",
+    "options": {
+      "A": "Skin integrity",
+      "B": "Respiratory rate and vital capacity",
+      "C": "Bowel elimination pattern",
+      "D": "Range of motion of joints"
+    },
+    "answer": "B",
+    "rationale": "Guillain-Barré syndrome causes ascending paralysis that can compromise the respiratory muscles; frequent monitoring of respiratory rate and vital capacity is the priority to detect impending respiratory failure."
+  },
+  {
+    "id": 87,
+    "np": "NP IV",
+    "question": "A client with myasthenia gravis reports increasing muscle weakness. The physician orders a Tensilon (edrophonium) test. If the client's symptoms IMPROVE after administration, this confirms:",
+    "options": {
+      "A": "Myasthenic crisis (need for more anticholinesterase medication)",
+      "B": "Cholinergic crisis (need to hold anticholinesterase medication)",
+      "C": "A normal, unrelated finding",
+      "D": "Onset of respiratory failure requiring intubation"
+    },
+    "answer": "A",
+    "rationale": "Improvement of weakness after edrophonium indicates the client is under-medicated (myasthenic crisis) and needs more anticholinesterase medication; worsening would indicate cholinergic crisis."
+  },
+  {
+    "id": 88,
+    "np": "NP IV",
+    "question": "A client with multiple sclerosis reports significant fatigue that worsens with heat exposure. Which instruction should the nurse include?",
+    "options": {
+      "A": "Take hot baths daily to relax muscles",
+      "B": "Plan activities during periods of peak energy and avoid excessive heat exposure",
+      "C": "Increase strenuous exercise to build endurance",
+      "D": "Avoid all rest periods during the day"
+    },
+    "answer": "B",
+    "rationale": "Heat can temporarily worsen MS symptoms (Uhthoff's phenomenon); energy conservation techniques and avoiding heat exposure help manage fatigue effectively."
+  },
+  {
+    "id": 89,
+    "np": "NP IV",
+    "question": "A client with cirrhosis and known esophageal varices is at risk for variceal bleeding. Which instruction is MOST important for the nurse to provide?",
+    "options": {
+      "A": "Take aspirin for headaches as needed",
+      "B": "Avoid straining, forceful coughing, and vomiting; report any hematemesis immediately",
+      "C": "Increase intake of spicy, rough-textured foods",
+      "D": "Engage in heavy lifting to build strength"
+    },
+    "answer": "B",
+    "rationale": "Activities that increase intra-abdominal or portal pressure (straining, forceful coughing/vomiting) can precipitate variceal rupture; aspirin, rough foods, and heavy lifting also raise bleeding or pressure risk."
+  },
+  {
+    "id": 90,
+    "np": "NP IV",
+    "question": "A client with gout is being taught about dietary modifications. Which food should the nurse instruct the client to AVOID?",
+    "options": {
+      "A": "Organ meats (liver, kidney) and shellfish",
+      "B": "Low-fat dairy products",
+      "C": "Whole grains",
+      "D": "Fresh vegetables like carrots"
+    },
+    "answer": "A",
+    "rationale": "High-purine foods such as organ meats and shellfish increase uric acid production and should be avoided or limited in clients with gout; low-fat dairy is actually protective."
+  },
+  {
+    "id": 91,
+    "np": "NP V",
+    "question": "A client with major depressive disorder who was previously withdrawn and lethargic suddenly appears energized, is giving away personal belongings, and seems calmer. The nurse should recognize this as:",
+    "options": {
+      "A": "A sign of improving mood and resolving depression",
+      "B": "A possible warning sign of increased suicide risk, as the client may now have the energy to act on a plan",
+      "C": "A normal fluctuation requiring no further assessment",
+      "D": "Evidence that discharge planning can proceed immediately"
+    },
+    "answer": "B",
+    "rationale": "A sudden lift in mood and giving away possessions in a previously severely depressed client is a classic warning sign that they may have decided on and gained the energy to carry out a suicide plan."
+  },
+  {
+    "id": 92,
+    "np": "NP V",
+    "question": "A client in the manic phase of bipolar disorder is pacing continuously and has not eaten a full meal in 2 days due to distractibility. Which nursing intervention is MOST appropriate?",
+    "options": {
+      "A": "Insist the client sit through a full-course meal",
+      "B": "Provide high-calorie, portable finger foods the client can eat while moving",
+      "C": "Withhold food until the client calms down",
+      "D": "Feed the client via nasogastric tube immediately"
+    },
+    "answer": "B",
+    "rationale": "Clients in acute mania are often too distractible and hyperactive to sit through meals; finger foods that can be eaten on the go help meet nutritional needs without requiring prolonged sitting."
+  },
+  {
+    "id": 93,
+    "np": "NP V",
+    "question": "A client with obsessive-compulsive disorder performs handwashing rituals lasting up to 2 hours. During the initial phase of care, what is the MOST appropriate nursing approach?",
+    "options": {
+      "A": "Firmly prevent the client from performing the ritual",
+      "B": "Allow time for the ritual while structuring the schedule, then gradually work with the client to limit the behavior",
+      "C": "Ignore the behavior entirely with no intervention",
+      "D": "Confront the client about the irrationality of the ritual"
+    },
+    "answer": "B",
+    "rationale": "Abruptly stopping a ritual increases the client's anxiety significantly. The initial approach is to allow the ritual within a structured schedule, then gradually and collaboratively work to limit the behavior over time."
+  },
+  {
+    "id": 94,
+    "np": "NP V",
+    "question": "A combat veteran with PTSD experiences a flashback during a group session, becoming disoriented and distressed. What is the nurse's PRIORITY action?",
+    "options": {
+      "A": "Leave the client alone until the episode passes",
+      "B": "Use a calm voice, reorient the client to the present environment, and stay with them",
+      "C": "Restrain the client immediately",
+      "D": "Administer PRN sedation without first attempting reorientation"
+    },
+    "answer": "B",
+    "rationale": "During a flashback, the priority is grounding and reorienting the client to the present, calm environment while remaining present for safety and support, before considering medication."
+  },
+  {
+    "id": 95,
+    "np": "NP V",
+    "question": "A severely malnourished client with anorexia nervosa begins nutritional refeeding. The nurse should monitor closely for which life-threatening complication of refeeding syndrome?",
+    "options": {
+      "A": "Hyperkalemia",
+      "B": "Hypophosphatemia",
+      "C": "Hypercalcemia",
+      "D": "Hypernatremia"
+    },
+    "answer": "B",
+    "rationale": "Refeeding syndrome causes a rapid intracellular shift of phosphate, potassium, and magnesium, with hypophosphatemia being a hallmark, life-threatening complication that can cause cardiac and respiratory failure."
+  },
+  {
+    "id": 96,
+    "np": "NP V",
+    "question": "Which nursing statement BEST demonstrates the use of an open-ended therapeutic communication technique?",
+    "options": {
+      "A": "\"Are you feeling sad today?\"",
+      "B": "\"Tell me more about how you've been feeling lately.\"",
+      "C": "\"You should try to feel better.\"",
+      "D": "\"Do you take your medications every day?\""
+    },
+    "answer": "B",
+    "rationale": "Open-ended statements invite the client to elaborate freely rather than answer with a simple yes/no, encouraging deeper therapeutic exploration of feelings and experiences."
+  },
+  {
+    "id": 97,
+    "np": "NP V",
+    "question": "A client in cardiogenic shock following an MI presents with hypotension, cold clammy skin, weak pulses, and crackles on lung auscultation. Which finding reflects the underlying pathophysiology the nurse should recognize?",
+    "options": {
+      "A": "Increased cardiac output overwhelming the heart",
+      "B": "Severe pump failure leading to decreased cardiac output and pulmonary congestion",
+      "C": "Excessive vasodilation from sepsis",
+      "D": "Isolated right-sided heart failure only"
+    },
+    "answer": "B",
+    "rationale": "Cardiogenic shock results from severe left ventricular pump failure, causing decreased cardiac output (hypotension, cold clammy skin, weak pulses) and backward pressure causing pulmonary congestion (crackles)."
+  },
+  {
+    "id": 98,
+    "np": "NP V",
+    "question": "A client with ARDS is receiving mechanical ventilation. Which ventilator strategy is used to minimize further lung injury?",
+    "options": {
+      "A": "High tidal volumes to maximize oxygenation",
+      "B": "Low tidal volume (lung-protective) ventilation strategy",
+      "C": "Removing PEEP entirely",
+      "D": "Hyperventilation to achieve respiratory alkalosis"
+    },
+    "answer": "B",
+    "rationale": "Lung-protective ventilation using low tidal volumes (with adequate PEEP) reduces the risk of ventilator-induced lung injury (barotrauma/volutrauma) in clients with ARDS."
+  },
+  {
+    "id": 99,
+    "np": "NP V",
+    "question": "A critically ill client develops disseminated intravascular coagulation (DIC). Which laboratory finding would the nurse expect?",
+    "options": {
+      "A": "Elevated platelet count and shortened PT/PTT",
+      "B": "Decreased platelet count, prolonged PT/PTT, and elevated D-dimer",
+      "C": "Elevated fibrinogen with normal D-dimer",
+      "D": "Normal coagulation studies with isolated anemia"
+    },
+    "answer": "B",
+    "rationale": "DIC consumes clotting factors and platelets while activating fibrinolysis, resulting in thrombocytopenia, prolonged PT/PTT, decreased fibrinogen, and elevated D-dimer/fibrin degradation products."
+  },
+  {
+    "id": 100,
+    "np": "NP V",
+    "question": "A physician is about to perform an invasive procedure requiring informed consent. What is the nurse's PRIMARY role in this process?",
+    "options": {
+      "A": "Explain the risks, benefits, and alternatives of the procedure to the client",
+      "B": "Witness the client's signature and verify that the client understands the information given by the physician",
+      "C": "Decide whether the client should undergo the procedure",
+      "D": "Obtain consent on behalf of the physician without any physician explanation"
+    },
+    "answer": "B",
+    "rationale": "Explaining the procedure's risks, benefits, and alternatives is the physician's responsibility. The nurse's role is to witness the signature and verify the client's understanding, notifying the physician if understanding is unclear."
+  }
+
+  {
+    "id": 101,
+    "np": "NP I",
+    "question": "Which principle of Primary Health Care emphasizes people's right and duty to participate individually and collectively in the planning of their own health care?",
+    "options": {
+      "A": "Accessibility",
+      "B": "Community participation",
+      "C": "Intersectoral linkage",
+      "D": "Use of appropriate technology"
+    },
+    "answer": "B",
+    "rationale": "Community participation is a core PHC principle from the Alma-Ata Declaration, recognizing the community's right and responsibility to be involved in planning and implementing their own health care."
+  },
+  {
+    "id": 102,
+    "np": "NP I",
+    "question": "A nurse teaches a couple about the Standard Days Method of natural family planning. Which instruction is correct?",
+    "options": {
+      "A": "Avoid unprotected intercourse on days 8 to 19 of the menstrual cycle",
+      "B": "Avoid intercourse only on the exact day of ovulation",
+      "C": "This method is effective for women with any cycle length",
+      "D": "The fertile days are days 1 to 7 of the cycle"
+    },
+    "answer": "A",
+    "rationale": "The Standard Days Method identifies days 8–19 as the fertile window during which the couple must avoid unprotected intercourse. It is only reliable for women whose cycles consistently range 26–32 days."
+  },
+  {
+    "id": 103,
+    "np": "NP I",
+    "question": "Under the Philippine HIV and AIDS Policy Act (RA 11166), which principle applies to the disclosure of a client's HIV status?",
+    "options": {
+      "A": "Family members must always be informed regardless of the client's consent",
+      "B": "Confidentiality is a protected right of the person living with HIV, and testing is voluntary with informed consent",
+      "C": "Employers may be given test results directly without consent",
+      "D": "HIV screening is mandatory as a condition for employment"
+    },
+    "answer": "B",
+    "rationale": "RA 11166 protects the confidentiality of HIV status and mandates voluntary, consent-based testing, prohibiting mandatory testing as a precondition for employment."
+  },
+  {
+    "id": 104,
+    "np": "NP I",
+    "question": "A malnourished child's weight-for-height is plotted below -3 z-score with visible severe wasting but no bilateral pitting edema. According to WHO/DOH classification, this indicates:",
+    "options": {
+      "A": "Normal nutritional status",
+      "B": "Moderate acute malnutrition",
+      "C": "Severe acute malnutrition (marasmus)",
+      "D": "Kwashiorkor"
+    },
+    "answer": "C",
+    "rationale": "A weight-for-height z-score below -3 SD with visible severe wasting but no edema indicates severe acute malnutrition of the marasmic type; edema would instead suggest kwashiorkor."
+  },
+  {
+    "id": 105,
+    "np": "NP I",
+    "question": "A farmer sustains minor scratches without bleeding from a stray dog's claws, classified as Category II exposure. What is the appropriate management?",
+    "options": {
+      "A": "Wash the wound and simply observe the animal; no vaccine is needed",
+      "B": "Wash the wound thoroughly and start anti-rabies vaccination (rabies immunoglobulin is not required)",
+      "C": "Wash the wound and give both vaccine and rabies immunoglobulin",
+      "D": "No wound care or vaccination is needed at all"
+    },
+    "answer": "B",
+    "rationale": "Category II exposures (minor scratches/abrasions without bleeding) require wound washing plus the anti-rabies vaccine series; rabies immunoglobulin is reserved for Category III exposures."
+  },
+  {
+    "id": 106,
+    "np": "NP I",
+    "question": "A nurse participates in setting up evacuation centers and stockpiling emergency supplies in anticipation of an approaching typhoon. This activity falls under which phase of disaster management?",
+    "options": {
+      "A": "Mitigation",
+      "B": "Preparedness",
+      "C": "Response",
+      "D": "Recovery/Rehabilitation"
+    },
+    "answer": "B",
+    "rationale": "Preparedness activities occur before a disaster strikes and include stockpiling supplies, planning evacuation routes/centers, and organizing response teams in anticipation of an event."
+  },
+  {
+    "id": 107,
+    "np": "NP I",
+    "question": "Under the DOH Garantisadong Pambata program, what is the primary target age group for the biannual child health package?",
+    "options": {
+      "A": "Adults 60 years and above",
+      "B": "Children 0 to 59 months old",
+      "C": "Adolescents 10 to 19 years old",
+      "D": "Pregnant women only"
+    },
+    "answer": "B",
+    "rationale": "Garantisadong Pambata is a biannual child health package (Vitamin A, deworming, immunization catch-up, growth monitoring) targeting children under 5 years old (0–59 months)."
+  },
+  {
+    "id": 108,
+    "np": "NP I",
+    "question": "A nurse educates a community on preventing fecal-oral transmission of diseases like typhoid and cholera. Which intervention is MOST effective?",
+    "options": {
+      "A": "Handwashing after toilet use, before eating, and consistent use of sanitary toilets",
+      "B": "Boiling drinking water only",
+      "C": "Chlorination of the water supply alone",
+      "D": "Routine insecticide spraying of households"
+    },
+    "answer": "A",
+    "rationale": "Breaking the fecal-oral transmission cycle requires both proper excreta disposal (sanitary toilets) and consistent hand hygiene at critical times — the most effective combined behavioral intervention."
+  },
+  {
+    "id": 109,
+    "np": "NP I",
+    "question": "Under the Universal Health Care Act (RA 11223), which pillar refers to ensuring adequate, appropriate, and quality health facilities and health human resources are available across the country?",
+    "options": {
+      "A": "Financial protection",
+      "B": "Health service delivery",
+      "C": "Governance",
+      "D": "Health information systems"
+    },
+    "answer": "B",
+    "rationale": "The health service delivery pillar of UHC focuses on ensuring access to a functional network of quality health facilities and adequately distributed health human resources nationwide."
+  },
+  {
+    "id": 110,
+    "np": "NP I",
+    "question": "An occupational health nurse notes factory workers exposed to loud machinery without ear protection. Providing them with earplugs exemplifies which level of prevention?",
+    "options": {
+      "A": "Primary prevention — specific protection",
+      "B": "Secondary prevention",
+      "C": "Tertiary prevention",
+      "D": "Health promotion only, not specific protection"
+    },
+    "answer": "A",
+    "rationale": "Providing personal protective equipment before injury occurs is a specific protection measure under primary prevention, aimed at preventing occupational hearing loss before exposure causes harm."
+  },
+  {
+    "id": 111,
+    "np": "NP II",
+    "question": "A nurse assesses cervical readiness for labor induction using the Bishop Score. A score of 9 (favorable) indicates:",
+    "options": {
+      "A": "The cervix is unfavorable and induction is unlikely to succeed",
+      "B": "The cervix is favorable, indicating a higher likelihood of successful induction",
+      "C": "Immediate cesarean section is required regardless of induction attempt",
+      "D": "The client is already in true active labor"
+    },
+    "answer": "B",
+    "rationale": "A Bishop Score of 8–9 or higher indicates a favorable cervix (adequately dilated, effaced, soft, and positioned), correlating with a higher likelihood of successful vaginal induction of labor."
+  },
+  {
+    "id": 112,
+    "np": "NP II",
+    "question": "A client at 42 weeks AOG (postterm) is being monitored. Which finding is a PRIORITY concern the nurse should watch for due to postmaturity?",
+    "options": {
+      "A": "Increased amniotic fluid volume",
+      "B": "Placental insufficiency leading to decreased amniotic fluid and possible fetal distress",
+      "C": "Excessive fetal lanugo",
+      "D": "Decreased risk of meconium aspiration"
+    },
+    "answer": "B",
+    "rationale": "Postterm pregnancies carry increased risk of placental aging/insufficiency, resulting in oligohydramnios and higher risk for fetal hypoxia, distress, and meconium aspiration."
+  },
+  {
+    "id": 113,
+    "np": "NP II",
+    "question": "A term newborn is jittery, lethargic, and has a blood glucose of 35 mg/dL at 2 hours of life. What is the nurse's PRIORITY action?",
+    "options": {
+      "A": "Delay feeding until the next scheduled feeding time",
+      "B": "Initiate early breastfeeding or provide glucose per protocol, then recheck glucose",
+      "C": "Administer IV insulin immediately",
+      "D": "Document the finding and simply observe for 4 hours"
+    },
+    "answer": "B",
+    "rationale": "Neonatal hypoglycemia requires prompt correction through early feeding or glucose administration per protocol, with follow-up glucose monitoring to confirm resolution and prevent neurologic injury."
+  },
+  {
+    "id": 114,
+    "np": "NP II",
+    "question": "An Rh-negative mother delivers an Rh-positive newborn. What is the PRIORITY nursing consideration regarding Rho(D) immune globulin (RhoGAM)?",
+    "options": {
+      "A": "RhoGAM should be given to the mother within 72 hours postpartum to prevent sensitization in future pregnancies",
+      "B": "RhoGAM should be given to the newborn, not the mother",
+      "C": "RhoGAM is unnecessary since this is not the mother's first pregnancy",
+      "D": "RhoGAM treats jaundice in the current newborn"
+    },
+    "answer": "A",
+    "rationale": "RhoGAM is administered to the Rh-negative mother within 72 hours postpartum to prevent her immune system from forming antibodies against Rh-positive fetal blood, protecting future pregnancies."
+  },
+  {
+    "id": 115,
+    "np": "NP II",
+    "question": "A client in preterm labor at 30 weeks AOG is receiving IV magnesium sulfate as a tocolytic. Besides monitoring for toxicity, the nurse should also recognize which additional expected fetal benefit?",
+    "options": {
+      "A": "Neuroprotection, reducing the risk of cerebral palsy in the preterm infant",
+      "B": "Acceleration of fetal lung maturity",
+      "C": "Complete, permanent cessation of all uterine activity",
+      "D": "Prevention of postpartum hemorrhage"
+    },
+    "answer": "A",
+    "rationale": "Antenatal magnesium sulfate given before 32 weeks provides fetal neuroprotection, reducing the risk of cerebral palsy, in addition to its tocolytic effect; lung maturity acceleration is the role of antenatal corticosteroids."
+  },
+  {
+    "id": 116,
+    "np": "NP II",
+    "question": "A 13-year-old female client is being assessed for pubertal development. According to Tanner staging, breast budding (Tanner Stage II) typically occurs around which age range?",
+    "options": {
+      "A": "6 to 7 years",
+      "B": "8 to 13 years",
+      "C": "15 to 17 years",
+      "D": "18 to 20 years"
+    },
+    "answer": "B",
+    "rationale": "Breast budding (thelarche), the first sign of Tanner Stage II development, typically appears between ages 8 and 13 years in most female adolescents."
+  },
+  {
+    "id": 117,
+    "np": "NP II",
+    "question": "A physician orders acetaminophen 15 mg/kg/dose for a febrile 20 kg child. How many mg should the nurse administer per dose?",
+    "options": {
+      "A": "150 mg",
+      "B": "200 mg",
+      "C": "300 mg",
+      "D": "450 mg"
+    },
+    "answer": "C",
+    "rationale": "15 mg/kg × 20 kg = 300 mg per dose."
+  },
+  {
+    "id": 118,
+    "np": "NP II",
+    "question": "A child with Tetralogy of Fallot suddenly becomes cyanotic and hyperpneic during crying (a 'tet spell'). What is the nurse's PRIORITY action?",
+    "options": {
+      "A": "Lay the child flat with the legs elevated",
+      "B": "Place the child in a knee-chest position and administer oxygen",
+      "C": "Encourage the child to continue crying to increase oxygenation",
+      "D": "Give the child a cool water bath immediately"
+    },
+    "answer": "B",
+    "rationale": "The knee-chest position increases systemic vascular resistance, reducing the right-to-left shunt and improving pulmonary blood flow during a hypercyanotic 'tet spell.'"
+  },
+  {
+    "id": 119,
+    "np": "NP II",
+    "question": "Following delivery of an Rh-positive newborn to an Rh-negative mother, a direct Coombs test is performed on the newborn's cord blood and returns positive. This finding indicates:",
+    "options": {
+      "A": "The newborn's own red blood cells are coated with maternal antibodies, suggesting possible hemolytic disease",
+      "B": "RhoGAM should now be withheld from the mother",
+      "C": "The test result is unrelated to Rh incompatibility",
+      "D": "No further monitoring of the newborn is needed"
+    },
+    "answer": "A",
+    "rationale": "A positive direct Coombs test on newborn cord blood indicates that maternal antibodies have coated the newborn's RBCs, signaling risk for hemolytic disease of the newborn requiring close monitoring."
+  },
+  {
+    "id": 120,
+    "np": "NP II",
+    "question": "A 38-year-old client who smokes one pack of cigarettes daily asks about starting combined oral contraceptives (COCs). What is the MOST appropriate nursing response?",
+    "options": {
+      "A": "\"COCs are safe for you regardless of your smoking status.\"",
+      "B": "\"Because you are over 35 and smoke, COCs are contraindicated due to increased cardiovascular risk; other methods should be considered.\"",
+      "C": "\"You should double your COC dose to compensate for smoking.\"",
+      "D": "\"Smoking has no effect on the safety of hormonal contraceptives.\""
+    },
+    "answer": "B",
+    "rationale": "Women over age 35 who smoke are at significantly increased risk for thromboembolic and cardiovascular events with combined oral contraceptives, making this combination a contraindication."
+  },
+  {
+    "id": 121,
+    "np": "NP III",
+    "question": "Following a total thyroidectomy, a client reports tingling around the mouth and fingertips. The nurse taps the facial nerve just anterior to the ear and observes facial muscle twitching. This finding is called:",
+    "options": {
+      "A": "Trousseau's sign, indicating hypercalcemia",
+      "B": "Chvostek's sign, indicating hypocalcemia",
+      "C": "Homan's sign, indicating deep vein thrombosis",
+      "D": "Babinski sign, indicating neurologic damage"
+    },
+    "answer": "B",
+    "rationale": "Chvostek's sign (facial twitching upon tapping the facial nerve) indicates hypocalcemia, a known risk after thyroidectomy from inadvertent parathyroid gland removal or trauma."
+  },
+  {
+    "id": 122,
+    "np": "NP III",
+    "question": "A client is placed in the Trendelenburg position during a surgical procedure. The nurse should monitor closely for which potential complication associated with this position?",
+    "options": {
+      "A": "Increased intracranial and intraocular pressure",
+      "B": "Decreased venous return to the heart",
+      "C": "Improved respiratory excursion",
+      "D": "Reduced risk of nerve compression injuries"
+    },
+    "answer": "A",
+    "rationale": "The head-down tilt of the Trendelenburg position increases intracranial and intraocular pressure and can restrict diaphragmatic excursion, impairing ventilation rather than improving it."
+  },
+  {
+    "id": 123,
+    "np": "NP III",
+    "question": "A client with severe COPD and chronic CO2 retention requires supplemental oxygen. The nurse should administer oxygen cautiously at a LOW flow rate primarily because:",
+    "options": {
+      "A": "High-flow oxygen may suppress the hypoxic drive that stimulates this client's respirations",
+      "B": "High-flow oxygen causes immediate oxygen toxicity within minutes",
+      "C": "Low-flow oxygen is simply more cost-effective for long-term use",
+      "D": "High-flow oxygen will cause acute hyperventilation and respiratory alkalosis"
+    },
+    "answer": "A",
+    "rationale": "Chronic CO2 retainers rely on hypoxia (rather than hypercapnia) as their primary respiratory drive; excessive supplemental oxygen can blunt this drive and precipitate worsening hypoventilation."
+  },
+  {
+    "id": 124,
+    "np": "NP III",
+    "question": "A client with sickle cell disease is admitted in vaso-occlusive crisis with severe pain. Which nursing intervention is the PRIORITY?",
+    "options": {
+      "A": "Restrict fluid intake to prevent volume overload",
+      "B": "Administer prescribed analgesics and IV fluids to promote hydration and hemodilution",
+      "C": "Apply ice packs directly to the painful joints",
+      "D": "Encourage strenuous exercise to promote circulation"
+    },
+    "answer": "B",
+    "rationale": "Adequate hydration reduces blood viscosity and promotes hemodilution, helping to relieve sickling and vaso-occlusion, alongside pain control; cold application actually promotes vasoconstriction and worsens sickling."
+  },
+  {
+    "id": 125,
+    "np": "NP III",
+    "question": "A client with a known latex allergy is scheduled for surgery. Which nursing action is MOST important in the perioperative setting?",
+    "options": {
+      "A": "Use standard latex gloves and equipment as usual",
+      "B": "Ensure a completely latex-free environment, including gloves, catheters, and other equipment",
+      "C": "Premedicate with antihistamines only; latex precautions are otherwise unnecessary",
+      "D": "Simply schedule the case last for the day without any other precautions"
+    },
+    "answer": "B",
+    "rationale": "For a client with a known latex allergy, ensuring a fully latex-free perioperative environment is essential to prevent a potentially severe or life-threatening allergic/anaphylactic reaction."
+  },
+  {
+    "id": 126,
+    "np": "NP III",
+    "question": "A client newly diagnosed with tuberculosis is started on isoniazid (INH). The nurse should anticipate co-administration of which vitamin to prevent peripheral neuropathy?",
+    "options": {
+      "A": "Vitamin B6 (pyridoxine)",
+      "B": "Vitamin C",
+      "C": "Vitamin D",
+      "D": "Vitamin K"
+    },
+    "answer": "A",
+    "rationale": "Isoniazid can cause pyridoxine (vitamin B6) deficiency leading to peripheral neuropathy; B6 supplementation is routinely given prophylactically alongside INH therapy."
+  },
+  {
+    "id": 127,
+    "np": "NP III",
+    "question": "A nurse assesses a burn wound that appears white, leathery, and dry, with no blanching and no pain on palpation. This is characteristic of which burn depth?",
+    "options": {
+      "A": "Superficial (first-degree) burn",
+      "B": "Superficial partial-thickness (second-degree) burn",
+      "C": "Full-thickness (third-degree) burn",
+      "D": "Superficial epidermal burn only"
+    },
+    "answer": "C",
+    "rationale": "Full-thickness burns destroy all skin layers including nerve endings, producing a white/leathery/charred, dry appearance with absent pain sensation and no blanching at the site."
+  },
+  {
+    "id": 128,
+    "np": "NP III",
+    "question": "A client with rheumatoid arthritis reports significant joint stiffness lasting over an hour each morning. Which nursing instruction is MOST helpful?",
+    "options": {
+      "A": "Perform strenuous exercise immediately upon waking",
+      "B": "Take a warm shower or bath upon waking, then perform gentle range-of-motion exercises",
+      "C": "Remain completely immobile until stiffness resolves spontaneously",
+      "D": "Apply ice packs immediately upon waking"
+    },
+    "answer": "B",
+    "rationale": "Warmth helps relax stiff joints and muscles, and gentle ROM exercises after warming help reduce morning stiffness in rheumatoid arthritis without overexerting inflamed joints."
+  },
+  {
+    "id": 129,
+    "np": "NP III",
+    "question": "A client requires an emergency blood transfusion, but the blood type is unknown and there is no time for cross-matching. Which blood type is considered the 'universal donor' for red blood cells?",
+    "options": {
+      "A": "Type AB positive",
+      "B": "Type O negative",
+      "C": "Type A positive",
+      "D": "Type B negative"
+    },
+    "answer": "B",
+    "rationale": "Type O negative red blood cells lack A, B, and Rh antigens, making them compatible with recipients of any blood type in emergency situations, hence the term 'universal donor.'"
+  },
+  {
+    "id": 130,
+    "np": "NP III",
+    "question": "A client following a modified radical mastectomy is being taught arm precautions on the affected side to prevent lymphedema. Which instruction is correct?",
+    "options": {
+      "A": "Allow blood pressure measurements and injections on the affected arm as needed",
+      "B": "Avoid blood pressure measurements, injections, and heavy lifting on the affected arm",
+      "C": "Encourage vigorous, unrestricted exercise of the affected arm immediately post-op",
+      "D": "No special precautions are needed after mastectomy"
+    },
+    "answer": "B",
+    "rationale": "Because lymph node removal impairs lymphatic drainage, procedures that increase pressure or introduce infection risk on the affected arm (BP cuffs, injections, venipuncture, heavy lifting) should be avoided to prevent lymphedema."
+  },
+  {
+    "id": 131,
+    "np": "NP IV",
+    "question": "A client with acute cholecystitis reports right upper quadrant pain that intensifies with deep inspiration during palpation under the right costal margin. This finding is known as:",
+    "options": {
+      "A": "Murphy's sign",
+      "B": "McBurney's point tenderness",
+      "C": "Rovsing's sign",
+      "D": "Cullen's sign"
+    },
+    "answer": "A",
+    "rationale": "Murphy's sign — pain and inspiratory arrest on palpation of the right upper quadrant under the costal margin — is a classic clinical indicator of acute cholecystitis."
+  },
+  {
+    "id": 132,
+    "np": "NP IV",
+    "question": "A client with GERD asks about appropriate lifestyle modifications. Which instruction should the nurse include?",
+    "options": {
+      "A": "Lie down immediately after meals to aid digestion",
+      "B": "Elevate the head of the bed and avoid eating 2–3 hours before lying down",
+      "C": "Increase intake of caffeine, chocolate, and fatty foods",
+      "D": "Wear tight-fitting clothing around the abdomen"
+    },
+    "answer": "B",
+    "rationale": "Elevating the head of the bed and avoiding recumbency soon after meals reduce reflux of gastric contents into the esophagus; caffeine, chocolate, fatty foods, and tight clothing all worsen GERD symptoms."
+  },
+  {
+    "id": 133,
+    "np": "NP IV",
+    "question": "A client presents with truncal obesity, a 'moon face,' purple abdominal striae, and thin extremities. The nurse suspects which endocrine disorder?",
+    "options": {
+      "A": "Addison's disease",
+      "B": "Cushing's syndrome",
+      "C": "Hypothyroidism",
+      "D": "Diabetes insipidus"
+    },
+    "answer": "B",
+    "rationale": "Truncal obesity, moon face, purple striae, and muscle wasting of the extremities are classic manifestations of excess cortisol seen in Cushing's syndrome."
+  },
+  {
+    "id": 134,
+    "np": "NP IV",
+    "question": "A client with SIADH has dilutional hyponatremia. Which nursing intervention is the PRIORITY?",
+    "options": {
+      "A": "Encourage increased free water intake",
+      "B": "Restrict fluid intake as prescribed and monitor serum sodium levels",
+      "C": "Administer large volumes of IV D5W",
+      "D": "Encourage a high-sodium, high-fluid diet without restriction"
+    },
+    "answer": "B",
+    "rationale": "In SIADH, excess ADH causes water retention and dilutional hyponatremia; the priority intervention is fluid restriction with close monitoring of serum sodium to prevent worsening cerebral edema."
+  },
+  {
+    "id": 135,
+    "np": "NP IV",
+    "question": "A client with Bell's palsy has facial drooping and is unable to fully close the affected eye. Which nursing instruction is MOST important to prevent complications?",
+    "options": {
+      "A": "Avoid using any eye protection since it may worsen the paralysis",
+      "B": "Apply artificial tears and a protective eye patch or shield, especially at night",
+      "C": "Keep the eye open at all times without any protection",
+      "D": "Rub the eye frequently to stimulate the facial nerve"
+    },
+    "answer": "B",
+    "rationale": "Inability to fully close the eye risks corneal drying and injury; artificial tears and nighttime eye protection prevent corneal abrasion and exposure keratitis."
+  },
+  {
+    "id": 136,
+    "np": "NP IV",
+    "question": "A client with trigeminal neuralgia experiences severe facial pain triggered by chewing and exposure to cold air. Which instruction should the nurse provide?",
+    "options": {
+      "A": "Chew food vigorously on the affected side",
+      "B": "Eat lukewarm, soft foods and avoid exposing the face to cold drafts",
+      "C": "Apply ice packs directly to the face during pain episodes",
+      "D": "Brush the teeth vigorously to desensitize the trigger area"
+    },
+    "answer": "B",
+    "rationale": "Avoiding known triggers such as cold air, extreme temperatures, and vigorous chewing helps minimize the excruciating paroxysmal pain episodes characteristic of trigeminal neuralgia."
+  },
+  {
+    "id": 137,
+    "np": "NP IV",
+    "question": "A client with acute diverticulitis is admitted with fever and abdominal pain. During the ACUTE phase, which diet order should the nurse anticipate?",
+    "options": {
+      "A": "A high-fiber diet started immediately",
+      "B": "NPO or clear liquids with bowel rest, advancing the diet as tolerated",
+      "C": "A high-residue diet with raw vegetables",
+      "D": "An unrestricted regular diet"
+    },
+    "answer": "B",
+    "rationale": "During an acute diverticulitis flare, bowel rest (NPO/clear liquids) is prioritized to reduce bowel stimulation; a high-fiber diet is instead recommended during remission to prevent future flares."
+  },
+  {
+    "id": 138,
+    "np": "NP IV",
+    "question": "A nurse is screening a client for metabolic syndrome. Which combination of findings would confirm this diagnosis?",
+    "options": {
+      "A": "Normal waist circumference, normal blood pressure, and normal triglycerides",
+      "B": "Abdominal obesity, elevated triglycerides, low HDL, elevated blood pressure, and elevated fasting glucose",
+      "C": "Isolated hypertension only, with all other parameters normal",
+      "D": "Isolated hyperglycemia only, with all other parameters normal"
+    },
+    "answer": "B",
+    "rationale": "Metabolic syndrome is diagnosed when at least three of these criteria are present together: abdominal obesity, elevated triglycerides, low HDL, elevated blood pressure, and elevated fasting glucose."
+  },
+  {
+    "id": 139,
+    "np": "NP IV",
+    "question": "A nurse is teaching a client about preventing Hepatitis A transmission. Which instruction is MOST important?",
+    "options": {
+      "A": "Avoid sharing needles with others",
+      "B": "Practice proper handwashing, especially after using the toilet and before handling food",
+      "C": "Avoid receiving blood transfusions",
+      "D": "Use condoms consistently during sexual contact"
+    },
+    "answer": "B",
+    "rationale": "Hepatitis A is transmitted via the fecal-oral route, primarily through contaminated food and water; strict hand hygiene is the most important preventive measure, unlike bloodborne Hepatitis B/C."
+  },
+  {
+    "id": 140,
+    "np": "NP IV",
+    "question": "A client who underwent a partial gastrectomy reports weakness, dizziness, sweating, and palpitations about 20 minutes after eating. The nurse recognizes this as dumping syndrome and should instruct the client to:",
+    "options": {
+      "A": "Eat larger meals with more fluids taken during meals",
+      "B": "Eat small, frequent meals, lie down after eating, and avoid fluids with meals",
+      "C": "Increase simple sugar intake to boost energy quickly",
+      "D": "Eat quickly to finish the meal before symptoms start"
+    },
+    "answer": "B",
+    "rationale": "Dumping syndrome management includes small, frequent, low-sugar meals, separating fluids from solid food intake, and lying down after eating to slow gastric emptying and reduce symptoms."
+  },
+  {
+    "id": 141,
+    "np": "NP V",
+    "question": "A client taking lithium carbonate for bipolar disorder reports nausea, vomiting, diarrhea, blurred vision, and ataxia. The nurse should suspect:",
+    "options": {
+      "A": "Therapeutic lithium levels with expected mild side effects",
+      "B": "Lithium toxicity",
+      "C": "Serotonin syndrome",
+      "D": "Neuroleptic malignant syndrome"
+    },
+    "answer": "B",
+    "rationale": "GI upset, blurred vision, and ataxia are hallmark signs of lithium toxicity, which occurs when serum levels exceed the narrow therapeutic range (0.6–1.2 mEq/L) and requires prompt evaluation."
+  },
+  {
+    "id": 142,
+    "np": "NP V",
+    "question": "In a psychiatric unit, the nurse facilitates a group session where clients practice social skills and receive peer feedback within a structured, controlled environment. This exemplifies which concept?",
+    "options": {
+      "A": "Chemical restraint",
+      "B": "Therapeutic milieu",
+      "C": "Seclusion therapy",
+      "D": "Behavior modification through punishment"
+    },
+    "answer": "B",
+    "rationale": "A therapeutic milieu uses the treatment environment itself — including structured group activities and peer interaction — as a tool for healing and skill-building among clients."
+  },
+  {
+    "id": 143,
+    "np": "NP V",
+    "question": "A home health nurse observes unexplained bruising, poor hygiene, and a fearful demeanor in an elderly client who lives with a caregiver. What is the nurse's PRIORITY action?",
+    "options": {
+      "A": "Confront the caregiver directly and accuse them of abuse",
+      "B": "Document objective findings and report suspected abuse to the appropriate protective services or authorities",
+      "C": "Ignore the findings since the client has not verbally reported abuse",
+      "D": "Discuss the findings only privately with other family members"
+    },
+    "answer": "B",
+    "rationale": "Nurses are mandated reporters; objective documentation and prompt reporting to appropriate protective authorities is required when elder abuse is suspected, regardless of the client's verbal disclosure."
+  },
+  {
+    "id": 144,
+    "np": "NP V",
+    "question": "A client is becoming increasingly agitated and verbally aggressive. What is the nurse's FIRST-LINE approach before considering restraints or seclusion?",
+    "options": {
+      "A": "Apply physical restraints immediately",
+      "B": "Use verbal de-escalation techniques and offer the client choices to regain a sense of control",
+      "C": "Administer PRN sedation without attempting any other intervention first",
+      "D": "Ignore the client until the behavior escalates further"
+    },
+    "answer": "B",
+    "rationale": "The least restrictive approach is always attempted first: verbal de-escalation and offering the client controlled choices can often defuse agitation before restraints or medication become necessary."
+  },
+  {
+    "id": 145,
+    "np": "NP V",
+    "question": "A client with somatic symptom disorder frequently reports multiple physical complaints with no identifiable medical cause and seeks frequent reassurance. What is the MOST therapeutic nursing approach?",
+    "options": {
+      "A": "Repeatedly reassure the client that nothing is medically wrong",
+      "B": "Acknowledge the client's distress without excessive focus on physical symptoms, and redirect toward healthy coping strategies",
+      "C": "Tell the client the symptoms are 'all in their head'",
+      "D": "Order additional diagnostic tests each time a new complaint arises"
+    },
+    "answer": "B",
+    "rationale": "Excessive reassurance or repeated testing can reinforce symptom-focused behavior; the therapeutic approach acknowledges distress while gently redirecting the client toward adaptive coping strategies."
+  },
+  {
+    "id": 146,
+    "np": "NP V",
+    "question": "A client presents with sudden paralysis of the right arm following a stressful event, with no organic cause found, and appears surprisingly unconcerned about the paralysis. This lack of concern is known as:",
+    "options": {
+      "A": "La belle indifférence",
+      "B": "Anosognosia",
+      "C": "Malingering",
+      "D": "Alexithymia"
+    },
+    "answer": "A",
+    "rationale": "La belle indifférence describes the characteristic lack of concern about a significant functional deficit seen in conversion disorder, distinguishing it from malingering or organic neurological disease."
+  },
+  {
+    "id": 147,
+    "np": "NP V",
+    "question": "A client in the early ('warm') phase of septic shock presents with fever, tachycardia, and warm, flushed skin with bounding pulses. The nurse understands this occurs due to:",
+    "options": {
+      "A": "Massive vasodilation from the systemic inflammatory/infectious response",
+      "B": "Severe generalized vasoconstriction",
+      "C": "Isolated cardiac pump failure",
+      "D": "Acute hemorrhage"
+    },
+    "answer": "A",
+    "rationale": "Early septic shock is characterized by widespread vasodilation from the inflammatory cascade, producing warm, flushed skin and bounding pulses before progression to the cold, hypotensive later phase."
+  },
+  {
+    "id": 148,
+    "np": "NP V",
+    "question": "A critically ill client develops sequential failure of the respiratory, renal, and hepatic systems following severe sepsis. The nurse recognizes this as:",
+    "options": {
+      "A": "Multiple Organ Dysfunction Syndrome (MODS)",
+      "B": "Systemic inflammatory response syndrome only, without organ involvement",
+      "C": "A normal, expected recovery process",
+      "D": "Isolated acute kidney injury"
+    },
+    "answer": "A",
+    "rationale": "MODS refers to progressive failure of two or more organ systems following a severe insult such as sepsis, representing a critical, often life-threatening complication requiring intensive multi-system support."
+  },
+  {
+    "id": 149,
+    "np": "NP V",
+    "question": "In emergency department triage, a client with a laceration requiring simple sutures who is hemodynamically stable would typically be classified under which triage priority?",
+    "options": {
+      "A": "Priority 1 (Emergent/Red) — immediate life threat",
+      "B": "Priority 2 (Urgent/Yellow) — needs care soon but currently stable",
+      "C": "Priority 3 (Non-urgent/Green) — can safely wait, no immediate threat",
+      "D": "Priority 0 (Deceased/Black)"
+    },
+    "answer": "C",
+    "rationale": "A stable client with a minor injury like a simple laceration requiring sutures, with no life-threatening compromise, is appropriately triaged as non-urgent (green) and can safely wait for care."
+  },
+  {
+    "id": 150,
+    "np": "NP V",
+    "question": "A mentally competent adult client with a life-threatening condition refuses a recommended blood transfusion based on personal beliefs. Which ethical principle should guide the nurse's PRIMARY response?",
+    "options": {
+      "A": "Beneficence — the nurse should insist on the transfusion for the client's own good",
+      "B": "Autonomy — the nurse should respect the client's informed right to refuse treatment",
+      "C": "Justice — treatment should be given to be fair to other clients",
+      "D": "Nonmaleficence — the nurse should decide what causes the least harm regardless of the client's wishes"
+    },
+    "answer": "B",
+    "rationale": "Respect for patient autonomy requires honoring a mentally competent adult's informed decision to refuse treatment, even when the nurse or provider disagrees with that choice."
+  }
+]
